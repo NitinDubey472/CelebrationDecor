@@ -1,0 +1,1727 @@
+[
+  {
+    "id": 1,
+    "name": "img_01.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.10.15 PM.jpeg",
+    "url": "/images/all/img_01.jpg",
+    "width": 1080,
+    "height": 792,
+    "top_colors": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        127,
+        111,
+        140
+      ],
+      [
+        127,
+        155,
+        177
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "name": "img_02.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.10.56 PM.jpeg",
+    "url": "/images/all/img_02.jpg",
+    "width": 1080,
+    "height": 1455,
+    "top_colors": [
+      [
+        140,
+        127,
+        88
+      ],
+      [
+        108,
+        91,
+        72
+      ],
+      [
+        116,
+        97,
+        76
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "name": "img_03.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.11.01 PM.jpeg",
+    "url": "/images/all/img_03.jpg",
+    "width": 1080,
+    "height": 1325,
+    "top_colors": [
+      [
+        100,
+        94,
+        61
+      ],
+      [
+        102,
+        93,
+        60
+      ],
+      [
+        135,
+        152,
+        142
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "name": "img_04.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.12.51 PM.jpeg",
+    "url": "/images/all/img_04.jpg",
+    "width": 1080,
+    "height": 1423,
+    "top_colors": [
+      [
+        123,
+        122,
+        135
+      ],
+      [
+        125,
+        123,
+        135
+      ],
+      [
+        128,
+        125,
+        136
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "name": "img_05.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.12.52 PM.jpeg",
+    "url": "/images/all/img_05.jpg",
+    "width": 1080,
+    "height": 1448,
+    "top_colors": [
+      [
+        185,
+        136,
+        100
+      ],
+      [
+        193,
+        141,
+        102
+      ],
+      [
+        190,
+        138,
+        99
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "name": "img_06.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.12.53 PM.jpeg",
+    "url": "/images/all/img_06.jpg",
+    "width": 1055,
+    "height": 1280,
+    "top_colors": [
+      [
+        180,
+        162,
+        148
+      ],
+      [
+        10,
+        10,
+        12
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "name": "img_07.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.01 PM.jpeg",
+    "url": "/images/all/img_07.jpg",
+    "width": 1080,
+    "height": 781,
+    "top_colors": [
+      [
+        123,
+        119,
+        115
+      ],
+      [
+        105,
+        95,
+        96
+      ],
+      [
+        186,
+        148,
+        141
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "name": "img_08.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.06 PM.jpeg",
+    "url": "/images/all/img_08.jpg",
+    "width": 1080,
+    "height": 1188,
+    "top_colors": [
+      [
+        9,
+        9,
+        7
+      ],
+      [
+        255,
+        255,
+        255
+      ],
+      [
+        10,
+        10,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "name": "img_09.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.13 PM.jpeg",
+    "url": "/images/all/img_09.jpg",
+    "width": 979,
+    "height": 1280,
+    "top_colors": [
+      [
+        212,
+        200,
+        184
+      ],
+      [
+        221,
+        213,
+        194
+      ],
+      [
+        211,
+        199,
+        183
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "name": "img_10.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.14 PM.jpeg",
+    "url": "/images/all/img_10.jpg",
+    "width": 1080,
+    "height": 634,
+    "top_colors": [
+      [
+        68,
+        57,
+        37
+      ],
+      [
+        71,
+        55,
+        29
+      ],
+      [
+        56,
+        49,
+        32
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "name": "img_11.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.17 PM.jpeg",
+    "url": "/images/all/img_11.jpg",
+    "width": 1080,
+    "height": 1061,
+    "top_colors": [
+      [
+        230,
+        222,
+        203
+      ],
+      [
+        209,
+        197,
+        182
+      ],
+      [
+        228,
+        220,
+        201
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "name": "img_12.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.19 PM.jpeg",
+    "url": "/images/all/img_12.jpg",
+    "width": 1022,
+    "height": 1280,
+    "top_colors": [
+      [
+        217,
+        227,
+        236
+      ],
+      [
+        189,
+        191,
+        204
+      ],
+      [
+        187,
+        190,
+        202
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "name": "img_13.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.27 PM.jpeg",
+    "url": "/images/all/img_13.jpg",
+    "width": 1080,
+    "height": 777,
+    "top_colors": [
+      [
+        174,
+        175,
+        159
+      ],
+      [
+        199,
+        183,
+        167
+      ],
+      [
+        169,
+        170,
+        152
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "name": "img_14.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.30 PM.jpeg",
+    "url": "/images/all/img_14.jpg",
+    "width": 1080,
+    "height": 1114,
+    "top_colors": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        235,
+        232,
+        227
+      ],
+      [
+        234,
+        231,
+        220
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "name": "img_15.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.35 PM.jpeg",
+    "url": "/images/all/img_15.jpg",
+    "width": 995,
+    "height": 1280,
+    "top_colors": [
+      [
+        164,
+        156,
+        145
+      ],
+      [
+        226,
+        195,
+        164
+      ],
+      [
+        25,
+        24,
+        21
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "name": "img_16.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.36 PM.jpeg",
+    "url": "/images/all/img_16.jpg",
+    "width": 1080,
+    "height": 822,
+    "top_colors": [
+      [
+        9,
+        7,
+        8
+      ],
+      [
+        8,
+        6,
+        7
+      ],
+      [
+        7,
+        5,
+        6
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "name": "img_17.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.37 PM.jpeg",
+    "url": "/images/all/img_17.jpg",
+    "width": 1080,
+    "height": 728,
+    "top_colors": [
+      [
+        154,
+        142,
+        102
+      ],
+      [
+        152,
+        140,
+        100
+      ],
+      [
+        151,
+        139,
+        99
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "name": "img_18.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.38 PM.jpeg",
+    "url": "/images/all/img_18.jpg",
+    "width": 1080,
+    "height": 559,
+    "top_colors": [
+      [
+        118,
+        157,
+        162
+      ],
+      [
+        186,
+        189,
+        192
+      ],
+      [
+        27,
+        46,
+        16
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "name": "img_19.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.39 PM (1).jpeg",
+    "url": "/images/all/img_19.jpg",
+    "width": 980,
+    "height": 1280,
+    "top_colors": [
+      [
+        8,
+        9,
+        13
+      ],
+      [
+        4,
+        2,
+        5
+      ],
+      [
+        9,
+        10,
+        14
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "name": "img_20.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.39 PM.jpeg",
+    "url": "/images/all/img_20.jpg",
+    "width": 1080,
+    "height": 703,
+    "top_colors": [
+      [
+        175,
+        175,
+        173
+      ],
+      [
+        174,
+        174,
+        172
+      ],
+      [
+        171,
+        171,
+        169
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "name": "img_21.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.46 PM.jpeg",
+    "url": "/images/all/img_21.jpg",
+    "width": 1080,
+    "height": 979,
+    "top_colors": [
+      [
+        185,
+        164,
+        120
+      ],
+      [
+        49,
+        33,
+        18
+      ],
+      [
+        43,
+        17,
+        12
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "name": "img_22.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.47 PM.jpeg",
+    "url": "/images/all/img_22.jpg",
+    "width": 1080,
+    "height": 741,
+    "top_colors": [
+      [
+        18,
+        31,
+        40
+      ],
+      [
+        79,
+        80,
+        75
+      ],
+      [
+        208,
+        183,
+        142
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "name": "img_23.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.48 PM.jpeg",
+    "url": "/images/all/img_23.jpg",
+    "width": 1080,
+    "height": 1391,
+    "top_colors": [
+      [
+        163,
+        179,
+        197
+      ],
+      [
+        161,
+        176,
+        195
+      ],
+      [
+        165,
+        182,
+        199
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "name": "img_24.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.13.56 PM.jpeg",
+    "url": "/images/all/img_24.jpg",
+    "width": 1046,
+    "height": 1280,
+    "top_colors": [
+      [
+        40,
+        43,
+        46
+      ],
+      [
+        24,
+        25,
+        28
+      ],
+      [
+        24,
+        24,
+        24
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "name": "img_25.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.00 PM.jpeg",
+    "url": "/images/all/img_25.jpg",
+    "width": 1080,
+    "height": 1070,
+    "top_colors": [
+      [
+        236,
+        237,
+        232
+      ],
+      [
+        227,
+        228,
+        223
+      ],
+      [
+        77,
+        57,
+        33
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "name": "img_26.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.01 PM.jpeg",
+    "url": "/images/all/img_26.jpg",
+    "width": 1080,
+    "height": 568,
+    "top_colors": [
+      [
+        152,
+        156,
+        168
+      ],
+      [
+        147,
+        151,
+        163
+      ],
+      [
+        154,
+        125,
+        121
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "name": "img_27.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.03 PM.jpeg",
+    "url": "/images/all/img_27.jpg",
+    "width": 1034,
+    "height": 1280,
+    "top_colors": [
+      [
+        132,
+        126,
+        94
+      ],
+      [
+        15,
+        14,
+        14
+      ],
+      [
+        16,
+        14,
+        15
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "name": "img_28.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.06 PM.jpeg",
+    "url": "/images/all/img_28.jpg",
+    "width": 1080,
+    "height": 1066,
+    "top_colors": [
+      [
+        220,
+        204,
+        178
+      ],
+      [
+        219,
+        204,
+        175
+      ],
+      [
+        215,
+        200,
+        171
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "name": "img_29.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.10 PM.jpeg",
+    "url": "/images/all/img_29.jpg",
+    "width": 983,
+    "height": 1280,
+    "top_colors": [
+      [
+        123,
+        80,
+        35
+      ],
+      [
+        211,
+        198,
+        164
+      ],
+      [
+        204,
+        188,
+        154
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "name": "img_30.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.11 PM.jpeg",
+    "url": "/images/all/img_30.jpg",
+    "width": 1080,
+    "height": 1030,
+    "top_colors": [
+      [
+        109,
+        102,
+        84
+      ],
+      [
+        114,
+        107,
+        89
+      ],
+      [
+        112,
+        103,
+        86
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "name": "img_31.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.12 PM (1).jpeg",
+    "url": "/images/all/img_31.jpg",
+    "width": 1042,
+    "height": 1280,
+    "top_colors": [
+      [
+        179,
+        170,
+        139
+      ],
+      [
+        204,
+        190,
+        155
+      ],
+      [
+        68,
+        64,
+        52
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "name": "img_32.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.12 PM.jpeg",
+    "url": "/images/all/img_32.jpg",
+    "width": 1080,
+    "height": 750,
+    "top_colors": [
+      [
+        198,
+        167,
+        147
+      ],
+      [
+        200,
+        170,
+        146
+      ],
+      [
+        70,
+        77,
+        92
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "name": "img_33.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.13 PM.jpeg",
+    "url": "/images/all/img_33.jpg",
+    "width": 1080,
+    "height": 1165,
+    "top_colors": [
+      [
+        181,
+        130,
+        99
+      ],
+      [
+        177,
+        126,
+        95
+      ],
+      [
+        80,
+        50,
+        42
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "name": "img_34.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.14 PM (1).jpeg",
+    "url": "/images/all/img_34.jpg",
+    "width": 1080,
+    "height": 1129,
+    "top_colors": [
+      [
+        169,
+        171,
+        157
+      ],
+      [
+        168,
+        170,
+        156
+      ],
+      [
+        178,
+        179,
+        174
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "name": "img_35.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.14 PM.jpeg",
+    "url": "/images/all/img_35.jpg",
+    "width": 1080,
+    "height": 736,
+    "top_colors": [
+      [
+        7,
+        7,
+        7
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        204,
+        189,
+        160
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "name": "img_36.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.15 PM.jpeg",
+    "url": "/images/all/img_36.jpg",
+    "width": 1080,
+    "height": 798,
+    "top_colors": [
+      [
+        10,
+        9,
+        7
+      ],
+      [
+        9,
+        8,
+        6
+      ],
+      [
+        175,
+        164,
+        146
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "name": "img_37.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.16 PM.jpeg",
+    "url": "/images/all/img_37.jpg",
+    "width": 1080,
+    "height": 1049,
+    "top_colors": [
+      [
+        7,
+        7,
+        9
+      ],
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        8,
+        8,
+        10
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "name": "img_38.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.17 PM.jpeg",
+    "url": "/images/all/img_38.jpg",
+    "width": 736,
+    "height": 736,
+    "top_colors": [
+      [
+        180,
+        180,
+        182
+      ],
+      [
+        174,
+        174,
+        176
+      ],
+      [
+        179,
+        179,
+        181
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "name": "img_39.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.18 PM (1).jpeg",
+    "url": "/images/all/img_39.jpg",
+    "width": 1080,
+    "height": 1076,
+    "top_colors": [
+      [
+        96,
+        83,
+        67
+      ],
+      [
+        96,
+        83,
+        66
+      ],
+      [
+        98,
+        85,
+        69
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "name": "img_40.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.18 PM.jpeg",
+    "url": "/images/all/img_40.jpg",
+    "width": 1349,
+    "height": 1349,
+    "top_colors": [
+      [
+        223,
+        227,
+        230
+      ],
+      [
+        220,
+        219,
+        224
+      ],
+      [
+        221,
+        220,
+        225
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "name": "img_41.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.19 PM.jpeg",
+    "url": "/images/all/img_41.jpg",
+    "width": 1038,
+    "height": 1280,
+    "top_colors": [
+      [
+        170,
+        171,
+        166
+      ],
+      [
+        178,
+        174,
+        171
+      ],
+      [
+        127,
+        119,
+        108
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "name": "img_42.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.21 PM.jpeg",
+    "url": "/images/all/img_42.jpg",
+    "width": 736,
+    "height": 736,
+    "top_colors": [
+      [
+        179,
+        179,
+        181
+      ],
+      [
+        180,
+        180,
+        182
+      ],
+      [
+        178,
+        178,
+        180
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "name": "img_43.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.24 PM.jpeg",
+    "url": "/images/all/img_43.jpg",
+    "width": 1349,
+    "height": 1349,
+    "top_colors": [
+      [
+        223,
+        227,
+        230
+      ],
+      [
+        220,
+        219,
+        224
+      ],
+      [
+        221,
+        225,
+        228
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "name": "img_44.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.25 PM (1).jpeg",
+    "url": "/images/all/img_44.jpg",
+    "width": 1020,
+    "height": 1020,
+    "top_colors": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "name": "img_45.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.25 PM.jpeg",
+    "url": "/images/all/img_45.jpg",
+    "width": 736,
+    "height": 1104,
+    "top_colors": [
+      [
+        162,
+        157,
+        151
+      ],
+      [
+        139,
+        138,
+        133
+      ],
+      [
+        153,
+        150,
+        143
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "name": "img_46.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.26 PM (1).jpeg",
+    "url": "/images/all/img_46.jpg",
+    "width": 1080,
+    "height": 1834,
+    "top_colors": [
+      [
+        83,
+        70,
+        53
+      ],
+      [
+        82,
+        69,
+        52
+      ],
+      [
+        81,
+        68,
+        51
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "name": "img_47.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.26 PM.jpeg",
+    "url": "/images/all/img_47.jpg",
+    "width": 1600,
+    "height": 1066,
+    "top_colors": [
+      [
+        45,
+        54,
+        59
+      ],
+      [
+        46,
+        54,
+        57
+      ],
+      [
+        62,
+        63,
+        58
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "name": "img_48.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.27 PM (1).jpeg",
+    "url": "/images/all/img_48.jpg",
+    "width": 736,
+    "height": 414,
+    "top_colors": [
+      [
+        255,
+        255,
+        253
+      ],
+      [
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        254
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "name": "img_49.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.27 PM.jpeg",
+    "url": "/images/all/img_49.jpg",
+    "width": 1200,
+    "height": 1600,
+    "top_colors": [
+      [
+        170,
+        154,
+        95
+      ],
+      [
+        24,
+        14,
+        13
+      ],
+      [
+        31,
+        26,
+        20
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "name": "img_50.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.28 PM (1).jpeg",
+    "url": "/images/all/img_50.jpg",
+    "width": 1077,
+    "height": 1077,
+    "top_colors": [
+      [
+        3,
+        3,
+        1
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        9,
+        8,
+        4
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "name": "img_51.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.28 PM.jpeg",
+    "url": "/images/all/img_51.jpg",
+    "width": 1600,
+    "height": 1200,
+    "top_colors": [
+      [
+        148,
+        144,
+        132
+      ],
+      [
+        150,
+        145,
+        126
+      ],
+      [
+        138,
+        132,
+        118
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "name": "img_52.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.29 PM (1).jpeg",
+    "url": "/images/all/img_52.jpg",
+    "width": 735,
+    "height": 937,
+    "top_colors": [
+      [
+        40,
+        13,
+        3
+      ],
+      [
+        37,
+        19,
+        9
+      ],
+      [
+        39,
+        12,
+        3
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "name": "img_53.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.29 PM.jpeg",
+    "url": "/images/all/img_53.jpg",
+    "width": 720,
+    "height": 540,
+    "top_colors": [
+      [
+        150,
+        117,
+        66
+      ],
+      [
+        115,
+        89,
+        40
+      ],
+      [
+        150,
+        117,
+        63
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "name": "img_54.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.30 PM.jpeg",
+    "url": "/images/all/img_54.jpg",
+    "width": 720,
+    "height": 732,
+    "top_colors": [
+      [
+        14,
+        14,
+        12
+      ],
+      [
+        13,
+        13,
+        11
+      ],
+      [
+        103,
+        77,
+        60
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "name": "img_55.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.31 PM.jpeg",
+    "url": "/images/all/img_55.jpg",
+    "width": 900,
+    "height": 1600,
+    "top_colors": [
+      [
+        21,
+        12,
+        11
+      ],
+      [
+        50,
+        39,
+        36
+      ],
+      [
+        118,
+        57,
+        26
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "name": "img_56.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.32 PM.jpeg",
+    "url": "/images/all/img_56.jpg",
+    "width": 1600,
+    "height": 1200,
+    "top_colors": [
+      [
+        182,
+        160,
+        136
+      ],
+      [
+        181,
+        168,
+        152
+      ],
+      [
+        186,
+        164,
+        141
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "name": "img_57.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.34 PM.jpeg",
+    "url": "/images/all/img_57.jpg",
+    "width": 960,
+    "height": 1280,
+    "top_colors": [
+      [
+        68,
+        38,
+        30
+      ],
+      [
+        67,
+        37,
+        29
+      ],
+      [
+        69,
+        39,
+        31
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "name": "img_58.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.36 PM (1).jpeg",
+    "url": "/images/all/img_58.jpg",
+    "width": 735,
+    "height": 729,
+    "top_colors": [
+      [
+        230,
+        221,
+        216
+      ],
+      [
+        222,
+        203,
+        196
+      ],
+      [
+        177,
+        147,
+        156
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "name": "img_59.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.36 PM.jpeg",
+    "url": "/images/all/img_59.jpg",
+    "width": 1599,
+    "height": 1200,
+    "top_colors": [
+      [
+        255,
+        255,
+        255
+      ],
+      [
+        203,
+        193,
+        172
+      ],
+      [
+        168,
+        142,
+        125
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "name": "img_60.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.37 PM.jpeg",
+    "url": "/images/all/img_60.jpg",
+    "width": 736,
+    "height": 981,
+    "top_colors": [
+      [
+        15,
+        10,
+        6
+      ],
+      [
+        16,
+        9,
+        6
+      ],
+      [
+        16,
+        10,
+        6
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "name": "img_61.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.38 PM (1).jpeg",
+    "url": "/images/all/img_61.jpg",
+    "width": 1376,
+    "height": 1719,
+    "top_colors": [
+      [
+        127,
+        116,
+        98
+      ],
+      [
+        122,
+        111,
+        93
+      ],
+      [
+        134,
+        149,
+        145
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "name": "img_62.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.38 PM.jpeg",
+    "url": "/images/all/img_62.jpg",
+    "width": 736,
+    "height": 929,
+    "top_colors": [
+      [
+        184,
+        186,
+        201
+      ],
+      [
+        182,
+        189,
+        205
+      ],
+      [
+        183,
+        186,
+        205
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "name": "img_63.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.39 PM.jpeg",
+    "url": "/images/all/img_63.jpg",
+    "width": 960,
+    "height": 1200,
+    "top_colors": [
+      [
+        197,
+        188,
+        183
+      ],
+      [
+        192,
+        182,
+        173
+      ],
+      [
+        197,
+        188,
+        182
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "name": "img_64.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.40 PM (1).jpeg",
+    "url": "/images/all/img_64.jpg",
+    "width": 1200,
+    "height": 900,
+    "top_colors": [
+      [
+        255,
+        255,
+        255
+      ],
+      [
+        196,
+        190,
+        194
+      ],
+      [
+        194,
+        188,
+        192
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "name": "img_65.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.40 PM.jpeg",
+    "url": "/images/all/img_65.jpg",
+    "width": 765,
+    "height": 1020,
+    "top_colors": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "name": "img_66.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.41 PM (1).jpeg",
+    "url": "/images/all/img_66.jpg",
+    "width": 1200,
+    "height": 1600,
+    "top_colors": [
+      [
+        8,
+        15,
+        21
+      ],
+      [
+        6,
+        13,
+        19
+      ],
+      [
+        7,
+        14,
+        20
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "name": "img_67.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.41 PM.jpeg",
+    "url": "/images/all/img_67.jpg",
+    "width": 736,
+    "height": 981,
+    "top_colors": [
+      [
+        170,
+        153,
+        124
+      ],
+      [
+        255,
+        255,
+        255
+      ],
+      [
+        180,
+        162,
+        136
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "name": "img_68.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.43 PM.jpeg",
+    "url": "/images/all/img_68.jpg",
+    "width": 736,
+    "height": 920,
+    "top_colors": [
+      [
+        108,
+        77,
+        72
+      ],
+      [
+        106,
+        75,
+        72
+      ],
+      [
+        107,
+        76,
+        71
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "name": "img_69.jpg",
+    "originalFile": "WhatsApp Image 2026-09-26 at 12.14.45 PM.jpeg",
+    "url": "/images/all/img_69.jpg",
+    "width": 720,
+    "height": 1600,
+    "top_colors": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        8,
+        7
+      ],
+      [
+        10,
+        8,
+        6
+      ]
+    ]
+  }
+]
