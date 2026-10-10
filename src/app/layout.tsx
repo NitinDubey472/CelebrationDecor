@@ -21,6 +21,10 @@ const playfair = Playfair_Display({
 
 /* ── SEO Metadata ── */
 export const metadata: Metadata = {
+  metadataBase: new URL(siteConfig.url),
+  alternates: {
+    canonical: "/",
+  },
   title: {
     default: "Best Balloon & Event Decoration Agency in Chandigarh | CelebrationDecor",
     template: `%s | CelebrationDecor Chandigarh`,

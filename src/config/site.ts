@@ -11,7 +11,7 @@ export const siteConfig = {
   tagline: "We create, you celebrate.",
   description:
     "Premium balloon decoration & event management in Chandigarh. Birthday parties, baby showers, weddings, ring ceremonies, naming ceremonies, and corporate events across Chandigarh, Mohali & Panchkula.",
-  url: "https://celebrationdecor.in", // Update with your live domain
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://celebration-decor-psi.vercel.app",
 
   /* ── Contact Details ───────────────────────────────── */
   phone: "+91 88723 63805", // Display format
